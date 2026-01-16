@@ -12,6 +12,17 @@ The system bridges the gap between **text sentiment** and **human-like audio out
 
 ---
 
+
+## 🎥 Demo Video
+
+A short demo showcasing the end-to-end flow of the Empathy Engine, including emotion detection, voice modulation, and audio playback.
+
+▶️ Watch the demo here:  
+https://drive.google.com/file/d/1rcthKYBE7ZaT2QkE9inbhHJymnsdNZGK/view
+
+> Note: The demo video is hosted on Google Drive due to GitHub file size limitations.
+
+---
 ## 🎯 Key Features
 
 - Automatic emotion detection from text  
