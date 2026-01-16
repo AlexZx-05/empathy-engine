@@ -126,9 +126,9 @@ python -m uvicorn api:app --reload
 
 ```
 http://127.0.0.1:8000
-
 ```
----
+
+
 
 ## Sample Test Inputs
 
@@ -152,3 +152,4 @@ The meeting is scheduled for tomorrow and the details have been shared.
 There have been some delays and the overall experience has been disappointing.
 
 ```
+---
