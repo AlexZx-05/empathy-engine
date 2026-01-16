@@ -112,4 +112,10 @@ The magnitude of the sentiment score slightly influences the degree of modulatio
 
 ---
 
+## ▶️ Running the Application
+
+### Install dependencies
+```bash
+python -m pip install -r requirements.txt
+
 
