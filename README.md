@@ -118,4 +118,7 @@ The magnitude of the sentiment score slightly influences the degree of modulatio
 ```bash
 python -m pip install -r requirements.txt
 
+---
+## 🔊 Voice Modulation Logic
+
 
