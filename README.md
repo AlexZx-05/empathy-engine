@@ -112,13 +112,27 @@ The magnitude of the sentiment score slightly influences the degree of modulatio
 
 ---
 
-## ▶️ Running the Application
-
-### Install dependencies
-```bash
+## ▶️ Running the Application ### Install dependencies
+bash
 python -m pip install -r requirements.txt
 
+### Run the web application
+
+python -m uvicorn api:app --reload
+
+### Open in browser:
+http://127.0.0.1:8000
 ---
-## 🔊 Voice Modulation Logic
+
+## Sample Test Inputs
+
+### Positive
+I am happy with the progress so far and everything seems to be going well.
+### Neutral
+The meeting is scheduled for tomorrow and the details have been shared.
+### Negative
+There have been some delays and the overall experience has been disappointing.
+
+
 
 
